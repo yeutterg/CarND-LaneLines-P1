@@ -2,8 +2,8 @@
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=PRGb6IH55pQ
-" target="_blank"><img src="http://img.youtube.com/vi/YPRGb6IH55pQ/hqdefault.jpg" 
-alt="Yellow White Lane Lines" width="240" height="180" border="10" /></a>
+" target="_blank"><img src="http://img.youtube.com/vi/YPRGb6IH55pQ/maxdefault.jpg" 
+alt="Yellow White Lane Lines" width="600" height="450" border="1" /></a>
 
 Overview
 ---
@@ -17,8 +17,8 @@ The code currently lives in P1.ipynb. The first two videos work, but I still nee
 This project is forked from [udacity/CarND-LaneLines-P1](https://github.com/udacity/CarND-LaneLines-P1).
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=WtSa8jfeW9E
-" target="_blank"><img src="http://img.youtube.com/vi/WtSa8jfeW9E/hqdefault.jpg" 
-alt="Yellow White Lane Lines" width="240" height="180" border="10" /></a>
+" target="_blank"><img src="http://img.youtube.com/vi/WtSa8jfeW9E/maxresdefault.jpg" 
+alt="White Lane Lines" width="600" height="450" border="1" /></a>
 
 The Project
 ---
