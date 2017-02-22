@@ -2,7 +2,7 @@
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=PRGb6IH55pQ
-" target="_blank"><img src="http://img.youtube.com/vi/YPRGb6IH55pQ/hqdefault.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/PRGb6IH55pQ/hqdefault.jpg" 
 alt="Yellow White Lane Lines" width="600" height="450" border="1" /></a>
 
 Overview
